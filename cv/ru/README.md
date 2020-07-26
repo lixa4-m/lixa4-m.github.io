@@ -1,6 +1,6 @@
 # Хомутов Максим Юрьевич
 
-<img align="left" width="100" height="100" src="/static/img/ak18_100.png">
+<img align="left" width="100" height="100" src="/static/img/ya_100x101.jpg">
 
 <div dir="rtl" markdown="1">
 _Работа с удовольствием добавляет совершенство в ее результат_
